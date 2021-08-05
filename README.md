@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Felicia 👋
+
+- I am a graduate student at UCSB's Bren School of Environmental Science and Management pursuing my masters in environmental data science 🍃
+- My bachelor's degree is in Environmental Studies and Economics from UCSB 🎓
+- I am currently learning R and Python 🐍
+- My interests include playing ultimate frisbee, traveling, and finding new spots to watch the sunset 🌅
 
 <!--
 **fmcruz23/fmcruz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
