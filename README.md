@@ -3,7 +3,7 @@
 - I am a graduate student at UCSB's Bren School of Environmental Science and Management pursuing a Master of Environmental Data Science 🍃
 - My bachelor's degree is in Environmental Studies and Economics from UCSB 🎓
 - I am currently learning R and Python 🐍
-- My interests include playing ultimate frisbee, traveling, and finding new spots to watch the sunset 🌅
+- I play competitive ultimate frisbee and love to travel ✈️
 
 <!--
 **fmcruz23/fmcruz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
