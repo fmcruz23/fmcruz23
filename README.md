@@ -1,7 +1,7 @@
 ### Hi, I'm Felicia 👋
 
 - I am a graduate student at UCSB's Bren School of Environmental Science and Management pursuing a Master of Environmental Data Science 🍃
-- My bachelor's degree is in Environmental Studies and Economics from UCSB 🎓
+- I earned my bachelor's degree from UCSB in 2021 with a double major in Environmental Studies and Economics 🎓
 - I am currently learning R and Python 🐍
 - I play competitive ultimate frisbee and love to travel ✈️
 
